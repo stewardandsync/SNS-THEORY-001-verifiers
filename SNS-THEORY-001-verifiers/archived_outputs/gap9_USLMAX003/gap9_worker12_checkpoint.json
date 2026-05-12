@@ -1,0 +1,27 @@
+{
+  "d_distribution": {
+    "10": 0,
+    "6": 1,
+    "7": 0,
+    "8": 0,
+    "9": 0
+  },
+  "elapsed_seconds": 0.022140026092529297,
+  "gap": 9,
+  "hostname": "USLMAX003",
+  "k": 8,
+  "max_d_observed": 6,
+  "metric": "Delta_3",
+  "modulus": 9,
+  "n": 17,
+  "phase_b_completed": false,
+  "pid": 3042618,
+  "reason": "interval",
+  "ring": "Z/9Z",
+  "script_name": "gap9_worker12.py",
+  "seeds_processed": 21523361,
+  "step_B_candidate_count": 0,
+  "throughput_seeds_per_sec": 972147047.6162908,
+  "timestamp_utc": "2026-05-06T18:09:20Z",
+  "total_seeds": 43046721
+}

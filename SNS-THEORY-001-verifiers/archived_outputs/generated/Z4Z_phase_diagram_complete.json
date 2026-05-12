@@ -1,0 +1,701 @@
+{
+  "description": "Z/4Z phase diagram M2(K,R) for K in {2..8}, R in {1..7}",
+  "document": "SNS-THEORY-001",
+  "theorems": [
+    "Theorem 19",
+    "Theorem 20",
+    "Theorem 21"
+  ],
+  "provenance": "parallel runner for z4z_phase_diagram.py; verifier file left unchanged",
+  "workers": 24,
+  "total_runtime_seconds": 528.5,
+  "cells": {
+    "K2_R1": {
+      "K": 2,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 9,
+      "witness_seed": [
+        1,
+        1
+      ],
+      "runtime_seconds": 0.02
+    },
+    "K2_R2": {
+      "K": 2,
+      "R": 2,
+      "max_delta2_distance": 4,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K2_R3": {
+      "K": 2,
+      "R": 3,
+      "max_delta2_distance": 4,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K2_R4": {
+      "K": 2,
+      "R": 4,
+      "max_delta2_distance": 5,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K2_R5": {
+      "K": 2,
+      "R": 5,
+      "max_delta2_distance": 5,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K2_R6": {
+      "K": 2,
+      "R": 6,
+      "max_delta2_distance": 6,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K2_R7": {
+      "K": 2,
+      "R": 7,
+      "max_delta2_distance": 6,
+      "attainer_count": 4,
+      "witness_seed": [
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R1": {
+      "K": 3,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 27,
+      "witness_seed": [
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R2": {
+      "K": 3,
+      "R": 2,
+      "max_delta2_distance": 3,
+      "attainer_count": 12,
+      "witness_seed": [
+        2,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R3": {
+      "K": 3,
+      "R": 3,
+      "max_delta2_distance": 4,
+      "attainer_count": 30,
+      "witness_seed": [
+        2,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R4": {
+      "K": 3,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 30,
+      "witness_seed": [
+        2,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R5": {
+      "K": 3,
+      "R": 5,
+      "max_delta2_distance": 5,
+      "attainer_count": 6,
+      "witness_seed": [
+        3,
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R6": {
+      "K": 3,
+      "R": 6,
+      "max_delta2_distance": 6,
+      "attainer_count": 12,
+      "witness_seed": [
+        2,
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K3_R7": {
+      "K": 3,
+      "R": 7,
+      "max_delta2_distance": 6,
+      "attainer_count": 12,
+      "witness_seed": [
+        2,
+        2,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R1": {
+      "K": 4,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 81,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R2": {
+      "K": 4,
+      "R": 2,
+      "max_delta2_distance": 3,
+      "attainer_count": 16,
+      "witness_seed": [
+        3,
+        2,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R3": {
+      "K": 4,
+      "R": 3,
+      "max_delta2_distance": 4,
+      "attainer_count": 8,
+      "witness_seed": [
+        3,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R4": {
+      "K": 4,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 192,
+      "witness_seed": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R5": {
+      "K": 4,
+      "R": 5,
+      "max_delta2_distance": 4,
+      "attainer_count": 192,
+      "witness_seed": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R6": {
+      "K": 4,
+      "R": 6,
+      "max_delta2_distance": 5,
+      "attainer_count": 16,
+      "witness_seed": [
+        3,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K4_R7": {
+      "K": 4,
+      "R": 7,
+      "max_delta2_distance": 5,
+      "attainer_count": 32,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.01
+    },
+    "K5_R1": {
+      "K": 5,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 243,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.02
+    },
+    "K5_R2": {
+      "K": 5,
+      "R": 2,
+      "max_delta2_distance": 2,
+      "attainer_count": 783,
+      "witness_seed": [
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.02
+    },
+    "K5_R3": {
+      "K": 5,
+      "R": 3,
+      "max_delta2_distance": 3,
+      "attainer_count": 400,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.03
+    },
+    "K5_R4": {
+      "K": 5,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 390,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.03
+    },
+    "K5_R5": {
+      "K": 5,
+      "R": 5,
+      "max_delta2_distance": 6,
+      "attainer_count": 160,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.04
+    },
+    "K5_R6": {
+      "K": 5,
+      "R": 6,
+      "max_delta2_distance": 6,
+      "attainer_count": 160,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.05
+    },
+    "K5_R7": {
+      "K": 5,
+      "R": 7,
+      "max_delta2_distance": 6,
+      "attainer_count": 170,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.04
+    },
+    "K6_R1": {
+      "K": 6,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 729,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 0.1
+    },
+    "K6_R2": {
+      "K": 6,
+      "R": 2,
+      "max_delta2_distance": 2,
+      "attainer_count": 2970,
+      "witness_seed": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.18
+    },
+    "K6_R3": {
+      "K": 6,
+      "R": 3,
+      "max_delta2_distance": 4,
+      "attainer_count": 48,
+      "witness_seed": [
+        2,
+        1,
+        2,
+        2,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.24
+    },
+    "K6_R4": {
+      "K": 6,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 672,
+      "witness_seed": [
+        2,
+        1,
+        2,
+        0,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.27
+    },
+    "K6_R5": {
+      "K": 6,
+      "R": 5,
+      "max_delta2_distance": 5,
+      "attainer_count": 120,
+      "witness_seed": [
+        2,
+        1,
+        3,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 0.31
+    },
+    "K6_R6": {
+      "K": 6,
+      "R": 6,
+      "max_delta2_distance": 6,
+      "attainer_count": 1176,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 0.39
+    },
+    "K6_R7": {
+      "K": 6,
+      "R": 7,
+      "max_delta2_distance": 6,
+      "attainer_count": 1176,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 0.4
+    },
+    "K7_R1": {
+      "K": 7,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 2187,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 1.06
+    },
+    "K7_R2": {
+      "K": 7,
+      "R": 2,
+      "max_delta2_distance": 2,
+      "attainer_count": 11259,
+      "witness_seed": [
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "runtime_seconds": 2.51
+    },
+    "K7_R3": {
+      "K": 7,
+      "R": 3,
+      "max_delta2_distance": 3,
+      "attainer_count": 3500,
+      "witness_seed": [
+        3,
+        2,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 3.48
+    },
+    "K7_R4": {
+      "K": 7,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 1638,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 4.02
+    },
+    "K7_R5": {
+      "K": 7,
+      "R": 5,
+      "max_delta2_distance": 5,
+      "attainer_count": 84,
+      "witness_seed": [
+        3,
+        1,
+        2,
+        2,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 4.97
+    },
+    "K7_R6": {
+      "K": 7,
+      "R": 6,
+      "max_delta2_distance": 6,
+      "attainer_count": 224,
+      "witness_seed": [
+        3,
+        1,
+        3,
+        1,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 6.22
+    },
+    "K7_R7": {
+      "K": 7,
+      "R": 7,
+      "max_delta2_distance": 8,
+      "attainer_count": 14,
+      "witness_seed": [
+        3,
+        1,
+        3,
+        3,
+        2,
+        1,
+        1
+      ],
+      "runtime_seconds": 8.4
+    },
+    "K8_R1": {
+      "K": 8,
+      "R": 1,
+      "max_delta2_distance": 2,
+      "attainer_count": 6561,
+      "witness_seed": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "runtime_seconds": 13.72
+    },
+    "K8_R2": {
+      "K": 8,
+      "R": 2,
+      "max_delta2_distance": 2,
+      "attainer_count": 42687,
+      "witness_seed": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "runtime_seconds": 45.4
+    },
+    "K8_R3": {
+      "K": 8,
+      "R": 3,
+      "max_delta2_distance": 3,
+      "attainer_count": 9280,
+      "witness_seed": [
+        2,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1,
+        0
+      ],
+      "runtime_seconds": 61.27
+    },
+    "K8_R4": {
+      "K": 8,
+      "R": 4,
+      "max_delta2_distance": 4,
+      "attainer_count": 4224,
+      "witness_seed": [
+        2,
+        1,
+        2,
+        0,
+        2,
+        1,
+        0,
+        0
+      ],
+      "runtime_seconds": 76.97
+    },
+    "K8_R5": {
+      "K": 8,
+      "R": 5,
+      "max_delta2_distance": 4,
+      "attainer_count": 28288,
+      "witness_seed": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "runtime_seconds": 85.63
+    },
+    "K8_R6": {
+      "K": 8,
+      "R": 6,
+      "max_delta2_distance": 5,
+      "attainer_count": 8544,
+      "witness_seed": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "runtime_seconds": 99.54
+    },
+    "K8_R7": {
+      "K": 8,
+      "R": 7,
+      "max_delta2_distance": 6,
+      "attainer_count": 9472,
+      "witness_seed": [
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        0,
+        0
+      ],
+      "runtime_seconds": 112.87
+    }
+  },
+  "all_assertions_passed": true
+}

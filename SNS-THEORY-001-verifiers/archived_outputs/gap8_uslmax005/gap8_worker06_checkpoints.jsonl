@@ -1,0 +1,2 @@
+{"counts": {"d_le_6": 0}, "event": "checkpoint", "processed": 0, "reason": "startup", "timestamp": "2026-05-06T18:09:21Z"}
+{"counts": {"d_le_6": 1}, "event": "checkpoint", "processed": 32285041, "reason": "interval", "timestamp": "2026-05-06T18:09:21Z"}

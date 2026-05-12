@@ -1,0 +1,68 @@
+{
+  "candidate_labels": [],
+  "candidates": {},
+  "counts": {
+    "d_le_6": 1
+  },
+  "first_witnesses": {
+    "d_le_6": {
+      "d": 6,
+      "seed": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        7
+      ],
+      "seed_idx": 35872267,
+      "witness_codeword": [
+        1,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "witness_msg": [
+        1,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "witness_parity": [
+        0,
+        3,
+        6,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "gap": 9,
+  "phase_b_completed": false,
+  "processed": 35872268,
+  "script_start_wall": 1778090960.8578846,
+  "updated_wall": 1778090960.866984
+}

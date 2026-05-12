@@ -1,0 +1,5 @@
+/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker03: n=16, k=8, gap=8, total seeds=43,046,721, host=uslmax005
+On-the-fly mode: no message table arrays; implicit support<= 8 patterns=17,364,544
+Implicit patterns by support: {1: 64, 2: 1792, 3: 28672, 4: 286720, 5: 1806336, 6: 6096384, 7: 7464960, 8: 1679616}
+Implicit patterns by message weight: {1: 48, 2: 1024, 3: 12768, 4: 102928, 5: 560448, 6: 2093056, 7: 5349504, 8: 9244768}
+through 16,142,521/21,523,360; counts={'d_le_6': 1}; 31,300.8 seeds/s; elapsed=0.0s

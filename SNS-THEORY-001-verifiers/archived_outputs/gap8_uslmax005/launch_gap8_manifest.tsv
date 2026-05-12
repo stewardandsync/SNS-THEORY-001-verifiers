@@ -1,0 +1,9 @@
+worker	start	end	resume_start	pid	stdout	prefix	status
+00	0	5380840	0	3770266	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker00.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker00	launched
+01	5380840	10761680	5380840	3770268	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker01.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker01	launched
+02	10761680	16142520	10761680	3770270	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker02.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker02	launched
+03	16142520	21523360	16142520	3770272	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker03.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker03	launched
+04	21523360	26904200	21523360	3770274	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker04.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker04	launched
+05	26904200	32285040	26904200	3770276	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker05.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker05	launched
+06	32285040	37665880	32285040	3770278	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker06.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker06	launched
+07	37665880	43046721	37665880	3770280	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker07.out	/home/ahmed/coding_theory_sweeps/runs/gap8_uslmax005/gap8_worker07	launched

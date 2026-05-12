@@ -1,0 +1,71 @@
+{
+  "candidate_count": 0,
+  "counts": {
+    "d_le_6": 1
+  },
+  "first_witnesses": {
+    "d_le_6": {
+      "d": 2,
+      "seed": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "seed_idx": 26904200,
+      "witness_codeword": [
+        1,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "witness_msg": [
+        1,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "witness_parity": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "gap": 9,
+  "k": 8,
+  "max_bucket_observed": "d_le_6",
+  "metric": "Delta_3",
+  "n": 17,
+  "phase_b_completed": false,
+  "processed_seeds": 26904201,
+  "runtime_seconds": 0.00674891471862793,
+  "total_seeds": 43046721
+}

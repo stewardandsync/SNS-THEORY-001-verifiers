@@ -1,0 +1,16 @@
+{
+  "candidate_count": 0,
+  "counts": {
+    "d_le_6": 0
+  },
+  "first_witnesses": {},
+  "gap": 8,
+  "k": 8,
+  "max_bucket_observed": "d_le_6",
+  "metric": "Delta_3",
+  "n": 16,
+  "phase_b_completed": false,
+  "processed_seeds": 0,
+  "runtime_seconds": 0.00441431999206543,
+  "total_seeds": 43046721
+}

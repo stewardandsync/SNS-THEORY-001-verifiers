@@ -1,0 +1,5 @@
+/home/ahmed/coding_theory_sweeps/runs/gap9_USLMAX003/gap9_worker23: n=17, k=8, gap=9, total seeds=43,046,721, host=USLMAX003
+On-the-fly mode: no message table arrays; implicit support<= 8 patterns=28,063,552
+Implicit patterns by support: {1: 64, 2: 1792, 3: 28672, 4: 286720, 5: 1833216, 6: 7064064, 7: 12690432, 8: 6158592}
+Implicit patterns by message weight: {1: 48, 2: 1024, 3: 12768, 4: 102928, 5: 560448, 6: 2093056, 7: 5349504, 8: 9244768, 9: 10699008}
+through 41,253,108/43,046,721; counts={'d_le_6': 1}; 17,697.5 seeds/s; elapsed=0.0s
